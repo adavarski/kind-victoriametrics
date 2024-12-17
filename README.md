@@ -41,6 +41,6 @@ Password:
 ## Open web UI
 
 - [Grafana](http://grafana.kind.cluster)
-- [Alertmanager](alertmanager.kind.cluster)
-- [VMagent](agent.kind.cluster)
-- [VMsingle](single.kind.cluster)
+- [Alertmanager](http://alertmanager.kind.cluster)
+- [VMagent](http://agent.kind.cluster)
+- [VMsingle](http://single.kind.cluster)
