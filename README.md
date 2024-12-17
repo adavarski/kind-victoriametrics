@@ -42,6 +42,8 @@ Password:
 
 - [Grafana](http://grafana.kind.cluster)
 
+<img src="pictures/grafana-victoriametrics-datasourece.png?raw=true" width="1000">
+
 <img src="pictures/grafana-victoriametrics.png?raw=true" width="1000">
 
 
