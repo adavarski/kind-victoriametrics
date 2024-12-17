@@ -1,4 +1,4 @@
-# Use Victoria metrics k8s stack as replacement for kube-prometheus-k8s stack
+## Use Victoria metrics k8s stack as replacement for kube-prometheus-k8s stack
 
 ## Requirements
 
