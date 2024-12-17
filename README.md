@@ -41,6 +41,10 @@ Password:
 ## Open web UI
 
 - [Grafana](http://grafana.kind.cluster)
+
+<img src="pictures/grafana-victoriametrics.png?raw=true" width="1000">
+
+
 - [Alertmanager](http://alertmanager.kind.cluster)
 - [VMagent](http://agent.kind.cluster)
 - [VMsingle](http://single.kind.cluster)
