@@ -17,6 +17,8 @@ $ cat /etc/docker/daemon.json
   ]
 }
 
+Note: The above configuration sets up a single address pool of 172.17.0.0/16 affording over 65,000 IP addresses. Each network created within this pool will use a /24 CIDR subnet mask effectively providing 254 usable IP addresses.
+
 $ docker network rm kind
 $ sudo service docker restart
 
